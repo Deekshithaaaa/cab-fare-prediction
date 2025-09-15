@@ -1,0 +1,28 @@
+# Ignore large raw datasets
+data/train.csv
+data/*.zip
+data/*.tar
+data/*.gz
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache/virtual envs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env/
+.venv/
+.ipynb_checkpoints/
+
+# Ignore Jupyter checkpoints
+*/.ipynb_checkpoints/*
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+
