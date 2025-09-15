@@ -14,11 +14,11 @@ Tools: Jupyter Notebook, Git/GitHub, Anaconda
 
 Project Structure:
 cab-fare-prediction/
-│── data/
-│   └── train_sample_50k.csv   # sampled dataset
-│── notebooks/
-│   └── cab_fare_EDA.ipynb     # main analysis notebook
-│── README.md
+- data/
+   - train_sample_50k.csv   # sampled dataset
+- notebooks/
+   - cab_fare_EDA.ipynb     # main analysis notebook
+- README.md
 
 Dataset:
 Source: Kaggle – NYC Taxi Fare Prediction
