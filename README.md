@@ -52,5 +52,7 @@ Deliverables:
 * Week 8 – Final Presentation
 
 Author:
-Deekshitha
-Mentor: Shraddha Shahane (Dream Venture Labs)
+Deekshitha Adishesha Raje Urs
+
+Mentor: 
+Shraddha Shahane (Dream Venture Labs)
